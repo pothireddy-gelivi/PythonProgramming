@@ -1,4 +1,4 @@
-#WAP to find maximum number among 5 numbers?
+#WAP to find maximum number among 5 numbers ?
 
 num1=int(input("Enter the number: "))
 num2=int(input("Enter the number: "))
