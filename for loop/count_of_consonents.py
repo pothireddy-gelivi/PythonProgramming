@@ -1,4 +1,4 @@
-#WAP to print how many consonents are present in given string?
+#WAP to print how many consonents are present in given string ?
 
 string=input("Enter the string: ")
 count=0

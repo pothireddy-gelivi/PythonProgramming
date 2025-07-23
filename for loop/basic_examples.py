@@ -1,6 +1,6 @@
 #for loop with string
-
-string='pothireddy'
+ 
+string='pothi reddy'
 for element in string:
     print(element,end=" ")
 
