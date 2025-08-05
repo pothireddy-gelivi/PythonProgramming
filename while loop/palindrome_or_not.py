@@ -11,3 +11,6 @@ if number==reverse:
     print("yes")
 else:
     print("no")
+
+
+
