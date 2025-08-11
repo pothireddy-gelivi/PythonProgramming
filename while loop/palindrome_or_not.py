@@ -1,4 +1,7 @@
 #WAP to check given number is palindrome number or not if it is palindrome print yes or else no?
+#121=121
+
+'''A palindrome is a number, word, or phrase that reads the same forward and backward.'''
 
 number=int(input("Enter the number: "))
 dummy_number=number

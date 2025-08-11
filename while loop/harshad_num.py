@@ -1,5 +1,7 @@
 #WAP to check the given number is harshad number or not?
-#harshad number:an integer which is divisible by its sum of digits is called harshad number
+'''harshad number:an integer which is divisible by its sum of digits is called harshad number'''
+#12=1+2 --->12%3==0
+
 
 number=int(input("Enter the number: "))
 dummy_number=number
