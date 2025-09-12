@@ -5,6 +5,8 @@
 #     s+=ld
 #     n//=10
 
+# WAP to print sum of individual digits of given number by using recursion?
+
 def sumd(n):
     if n==0:
         return 0
