@@ -20,4 +20,5 @@ import bank as b
 # b.reddy.withdraw()
 # b.reddy.balance_check()
 # b.kavya.deposite()
-b.kavya.balance_check()
+# b.kavya.balance_check()
+b.pavani.balance_check()
